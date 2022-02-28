@@ -20,6 +20,7 @@
 		9589FBD32384B25900802568 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9589FBD22384B25900802568 /* CreateAccountViewController.swift */; };
 		C0A020E627C9282700522BE8 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A020E527C9282700522BE8 /* Constant.swift */; };
 		C0A020E827C92A0A00522BE8 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A020E727C9298B00522BE8 /* Extension.swift */; };
+		C0A020EA27CD471700522BE8 /* StockVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A020E927CD471700522BE8 /* StockVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		9589FBD22384B25900802568 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 		C0A020E527C9282700522BE8 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		C0A020E727C9298B00522BE8 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		C0A020E927CD471700522BE8 /* StockVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				95338D102384AAC3009E0F7F /* ViewController.swift */,
 				95338D262384B136009E0F7F /* BuyViewController.swift */,
 				9589FBD22384B25900802568 /* CreateAccountViewController.swift */,
+				C0A020E927CD471700522BE8 /* StockVC.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 			files = (
 				95338D212384AB65009E0F7F /* Coordinator.swift in Sources */,
 				95338D252384AE4D009E0F7F /* MainCoordinator.swift in Sources */,
+				C0A020EA27CD471700522BE8 /* StockVC.swift in Sources */,
 				C0A020E627C9282700522BE8 /* Constant.swift in Sources */,
 				95338D112384AAC3009E0F7F /* ViewController.swift in Sources */,
 				95338D232384ABD0009E0F7F /* Storyboarded.swift in Sources */,
